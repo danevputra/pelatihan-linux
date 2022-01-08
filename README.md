@@ -3,12 +3,8 @@
 # Materi
 1. [Pengenalan](#pengenalan)
 2. [Instalasi](#instalasi)
-4. [Konsep](#konsep)
-3. [CLI](#command-line-interface)
-5. [Networking](#networking)
-6. [Penggunaan Aplikasi](#penggunaan-aplikasi)
-7. [Setup SSH Keys](#setup-ssh-keys)
-8. [Tugas Mandiri](#tugas-mandiri)
+3. [Konsep](#konsep)
+4. [CLI](#command-line-interface)
 
 
 # Pengenalan
