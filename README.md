@@ -105,7 +105,7 @@ Sub-materi
 4. [Instalasi Ubuntu](#4-instalasi-ubuntu-1604)
 
 ### 1. Persiapan
-- File ISO Ubuntu 20.04.3 LTS ([Download](https://ubuntu.com/download/desktop/thank-you?version=20.04.3&architecture=amd64))
+- File ISO Ubuntu 20.04.3 LTS ([Download](https://ubuntu.com/download/desktop/thank-you?version=20.04.3&architecture=amd64)) atau Ubuntu 20.10 ([Download](https://ubuntu.com/download/desktop/thank-you/?version=21.10&architecture=amd64))
 - Installer VirtualBox ([Download](https://download.virtualbox.org/virtualbox/6.1.30/VirtualBox-6.1.30-148432-Win.exe))
 
 ### 2. Teknik Instalasi
