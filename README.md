@@ -105,8 +105,8 @@ Sub-materi
 4. [Instalasi Ubuntu](#4-instalasi-ubuntu-1604)
 
 ### 1. Persiapan
-- File ISO Ubuntu 16.04 LTS ([Download](http://releases.ubuntu.com/16.04/ubuntu-16.04.5-desktop-amd64.iso))
-- Installer VirtualBox ([Download](https://download.virtualbox.org/virtualbox/5.2.22/VirtualBox-5.2.22-126460-Win.exe))
+- File ISO Ubuntu 20.04.3 LTS ([Download](https://ubuntu.com/download/desktop/thank-you?version=20.04.3&architecture=amd64))
+- Installer VirtualBox ([Download](https://download.virtualbox.org/virtualbox/6.1.30/VirtualBox-6.1.30-148432-Win.exe))
 
 ### 2. Teknik Instalasi
 Jika hendak menggunakan lebih dari satu sistem operasi atau sering disebut OS(operating system) pada suatu komputer biasanya ada dua pilihan teknik instalasi, yaitu **dual-boot** atau **virtualisasi**.
@@ -132,7 +132,7 @@ Berikut ini perbandingan termasuk kelebihan dan kekurangan dari kedua teknik ins
 2. Buka aplikasi Oracle VM VirtualBox di Windows Anda.  
 ![Tampilan awal Oracle VM VirtualBox](img/vb_home.png "Tampilan awal Oracle VM VirtualBox")
 
-3. Klik **New** untuk membuat Virtual Machine baru. Isi **name** dengan nama 'Ubuntu 16.04', **type** pilih Linux, dan pilih **version** sesuai sepesifikasi PC atau Laptop Anda. Kemudian klik **Next** untuk proses selanjutnya.  
+3. Klik **New** untuk membuat Virtual Machine baru. Isi **name** dengan nama 'Ubuntu 20.04.03' atau nama lain sesuai keinginan kalian, **type** pilih Linux, dan pilih **version** sesuai sepesifikasi PC atau Laptop Anda. Kemudian klik **Next** untuk proses selanjutnya.  
 ![Membuat Virtual Machine baru Oracle VM VirtualBox](img/vb_buat_vm_baru.png "Membuat Virtual Machine baru Oracle VM VirtualBox")
 
 4. Selanjutnya Anda disuruh untuk menentukan besaran memori, namun VirtualBox otomatis merekomendasikan besarnya memori. Jika sudah sesuai klik **Next**.  
